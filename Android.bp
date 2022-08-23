@@ -1,0 +1,20 @@
+android_app {
+    name: "ParallelSpace",
+    srcs: [
+        "app/src/main/**/*.java",
+        "app/src/main/**/*.kt",
+    ],
+    resource_dirs: ["app/src/main/res"],
+    manifest: "app/src/main/AndroidManifest.xml",
+    platform_apis: true,
+    system_ext_specific: true,
+    certificate: "platform",
+    privileged: true,
+    static_libs: [
+        "com.google.android.material_material",
+        "androidx.swiperefreshlayout_swiperefreshlayout",
+        "androidx.activity_activity-ktx",
+        "androidx.fragment_fragment-ktx",
+        "SettingsLib",
+    ],
+}
