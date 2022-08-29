@@ -17,4 +17,5 @@ android_app {
         "androidx.fragment_fragment-ktx",
         "SettingsLib",
     ],
+    overrides: ["ParallelSpacePrebuilt"],
 }
