@@ -24,8 +24,6 @@
     <string name="remove_space_dialog_title">Remove space</string>
     <string name="remove_space_dialog_message">Are you sure to remove this space? You are going to lost all data stored in it.</string>
     <string name="default_space_name">Space</string>
-    <string name="not_supported_title">Parallel space is not supported</string>
-    <string name="not_supported_message">Parallel space is not supported on current user. Please switch to the owner user before using it.</string>
     <string name="space_settings">Space settings</string>
     <string name="space_settings_enable_gms">Enable Google services</string>
     <string name="close">close</string>

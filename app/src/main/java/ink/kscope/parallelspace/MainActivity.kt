@@ -130,20 +130,6 @@ class MainActivity : AppCompatActivity() {
         setSupportActionBar(findViewById(R.id.main_toolbar))
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
-        if (!SystemInterfaces.isCurrentSystemUser(this)) {
-            AlertDialog.Builder(this)
-                .setTitle(R.string.not_supported_title)
-                .setMessage(R.string.not_supported_message)
-                .setPositiveButton(android.R.string.ok) { _, _ ->
-                    finish()
-                }
-                .setOnCancelListener {
-                    finish()
-                }
-                .create().show()
-            return
-        }
-
         viewPager = findViewById(R.id.main_viewpager)
         tabLayout = findViewById(R.id.main_tab)
         menuLayout = findViewById(R.id.main_menu)

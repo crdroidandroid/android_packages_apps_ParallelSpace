@@ -20,7 +20,6 @@ import android.content.Context
 import android.content.pm.ApplicationInfo
 import android.content.pm.PackageManager
 import android.content.pm.UserInfo
-import android.os.UserHandle
 import android.provider.Settings
 import ink.kaleidoscope.ParallelSpaceManager
 import java.lang.RuntimeException
@@ -46,10 +45,6 @@ class SystemInterfaces {
 
         fun getCurrentUserId(context: Context): Int {
             return context.getUserId()
-        }
-
-        fun isCurrentSystemUser(context: Context): Boolean {
-            return getCurrentUserId(context) == UserHandle.USER_SYSTEM
         }
 
         fun getParallelUsers(): List<UserInfo> {
