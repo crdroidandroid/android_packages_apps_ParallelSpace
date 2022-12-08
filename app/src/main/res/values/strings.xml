@@ -15,16 +15,16 @@
 -->
 
 <resources>
-    <string name="app_name">ParallelSpace</string>
+    <string name="app_name">Parallel Space</string>
     <string name="new_space_tab">New</string>
     <string name="new_space_dialog_title">Create new space</string>
     <string name="new_space_dialog_name_hint">Space name</string>
     <string name="new_space_title">New parallel space</string>
     <string name="new_space_subtitle">Tap to create a parallel space</string>
     <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You are going to lost all data stored in it.</string>
+    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
     <string name="default_space_name">Space</string>
     <string name="space_settings">Space settings</string>
     <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">close</string>
+    <string name="close">Close</string>
 </resources>
