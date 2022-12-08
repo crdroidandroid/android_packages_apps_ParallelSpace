@@ -68,7 +68,7 @@ class AppListViewModel(private val context: Application) : AndroidViewModel(cont
                 result
             }
             userId = target
-            appList.value = result
+            appList.value = result.sortedWith(compareBy({ it.label.lowercase() }))
         }
     }
 
