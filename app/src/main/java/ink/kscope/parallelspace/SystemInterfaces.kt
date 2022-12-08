@@ -80,32 +80,5 @@ class SystemInterfaces {
                 com.android.internal.R.integer.config_parallelSpaceMaxCount
             )
         }
-
-        fun getGmsEnabled(context: Context, userId: Int): Boolean {
-            return Settings.Secure.getIntForUser(
-                context.contentResolver,
-                Settings.Secure.GMS_ENABLED,
-                0,
-                userId
-            ) == 1
-        }
-
-        fun enableGms(context: Context, userId: Int) {
-            Settings.Secure.putIntForUser(
-                context.contentResolver,
-                Settings.Secure.GMS_ENABLED,
-                1,
-                userId
-            )
-        }
-
-        fun disableGms(context: Context, userId: Int) {
-            Settings.Secure.putIntForUser(
-                context.contentResolver,
-                Settings.Secure.GMS_ENABLED,
-                0,
-                userId
-            )
-        }
     }
 }

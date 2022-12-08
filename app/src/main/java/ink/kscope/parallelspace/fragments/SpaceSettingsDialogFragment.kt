@@ -37,14 +37,6 @@ class SpaceSettingsDialogFragment : DialogFragment() {
             throw RuntimeException("Bad userId $userId")
 
         val view = layoutInflater.inflate(R.layout.fragment_space_settings_dialog, null)
-        val gmsSwitch = view.findViewById<Switch>(R.id.space_settings_gms_switch)
-        gmsSwitch.isChecked = SystemInterfaces.getGmsEnabled(requireContext(), userId)
-        gmsSwitch.setOnClickListener {
-            if (gmsSwitch.isChecked)
-                SystemInterfaces.enableGms(requireContext(), userId)
-            else
-                SystemInterfaces.disableGms(requireContext(), userId)
-        }
         return AlertDialog.Builder(requireContext())
             .setTitle(getString(R.string.space_settings))
             .setView(view)
