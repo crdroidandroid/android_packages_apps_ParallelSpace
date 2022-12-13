@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="app_name">平行空间</string>
+    <string name="new_space_tab">新建</string>
+    <string name="new_space_dialog_title">创建新的空间</string>
+    <string name="new_space_dialog_name_hint">空间名称</string>
+    <string name="new_space_title">新建平行空间</string>
+    <string name="new_space_subtitle">点击以创建平行空间</string>
+    <string name="remove_space_dialog_title">移除空间</string>
+    <string name="remove_space_dialog_message">您确定要删除此空间吗？您将丢失所有存储在其中的数据。</string>
+    <string name="default_space_name">空间</string>
+    <string name="space_settings">空间设置</string>
+    <string name="space_settings_enable_gms">启用谷歌服务</string>
+    <string name="close">关闭</string>
 </resources>
