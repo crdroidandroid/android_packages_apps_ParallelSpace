@@ -19,5 +19,15 @@ android_app {
         "androidx.lifecycle_lifecycle-livedata-ktx",
         "SettingsLib",
     ],
-    overrides: ["ParallelSpacePrebuilt"],
+    required: [
+        "privapp_whitelist_ink.kscope.parallelspace",
+    ],
+}
+
+prebuilt_etc {
+    name: "privapp_whitelist_ink.kscope.parallelspace",
+    system_ext_specific: true,
+    sub_dir: "permissions",
+    src: "privapp_whitelist_ink.kscope.parallelspace.xml",
+    filename_from_src: true,
 }
