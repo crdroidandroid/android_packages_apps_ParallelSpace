@@ -15,9 +15,9 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
+    <string name="app_name">Paralel space</string>
+    <string name="new_space_tab">Yeni</string>
+    <string name="new_space_dialog_title">Yeni alan oluştur</string>
     <string name="new_space_dialog_name_hint">Space name</string>
     <string name="new_space_title">New parallel space</string>
     <string name="new_space_subtitle">Tap to create a parallel space</string>
