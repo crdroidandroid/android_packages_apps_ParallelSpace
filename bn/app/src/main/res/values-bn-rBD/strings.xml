@@ -15,16 +15,17 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="app_name">প্যারালাল স্পেস</string>
+    <string name="new_space_tab">নতুন</string>
+    <string name="new_space_dialog_title">\"একটি নতুন স্পেস তৈরি করুন\"</string>
+    <string name="new_space_dialog_name_hint">স্পেসের নাম</string>
+    <string name="new_space_title">নতুন প্যারালাল স্পেস</string>
+    <string name="new_space_subtitle">টেপ দিয়ে একটি প্যারালাল স্পেস তৈরি করুন</string>
+    <string name="remove_space_dialog_title">রিমুভ স্পেস</string>
+    <string name="remove_space_dialog_message">এই স্পেসটি মুছে ফেলতে আপনি নিশ্চিত?
+আপনার সমস্ত ডাটা মুছে ফেলা হবে.</string>
+    <string name="default_space_name">স্পেস</string>
+    <string name="space_settings">স্পেস সেটিংস</string>
+    <string name="space_settings_enable_gms">এনাবল-গুগল সার্ভিসেস</string>
+    <string name="close">বন্ধ করুন</string>
 </resources>
