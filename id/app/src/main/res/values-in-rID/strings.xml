@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="app_name">Ruang Kedua</string>
+    <string name="new_space_tab">Baru</string>
+    <string name="new_space_dialog_title">Buat ruang baru</string>
+    <string name="new_space_dialog_name_hint">Nama ruang</string>
+    <string name="new_space_title">Ruang paraller baru</string>
+    <string name="new_space_subtitle">Tekan di sini untuk membuat ruang baru</string>
+    <string name="remove_space_dialog_title">Hilangkan sepasinya</string>
+    <string name="remove_space_dialog_message">Apa anda yakin ingin menghapus ruang ini? data anda yang tersimpan akan hilang.</string>
+    <string name="default_space_name">Spasi</string>
+    <string name="space_settings">Setelan Ruang</string>
+    <string name="space_settings_enable_gms">Aktifkan layanan google</string>
+    <string name="close">Tutup</string>
 </resources>
