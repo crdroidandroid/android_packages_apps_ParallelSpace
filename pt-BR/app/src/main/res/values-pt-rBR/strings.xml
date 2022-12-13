@@ -16,7 +16,7 @@
 -->
 <resources>
     <string name="app_name">Espaço Paralelo</string>
-    <string name="new_space_tab">Novo</string>
+    <string name="new_space_tab">Novo espaço</string>
     <string name="new_space_dialog_title">Criar novo espaço</string>
     <string name="new_space_dialog_name_hint">Nome do espaço</string>
     <string name="new_space_title">Novo espaço paralelo</string>
@@ -24,7 +24,7 @@
     <string name="remove_space_dialog_title">Remover espaço</string>
     <string name="remove_space_dialog_message">Tem certeza que deseja remover este espaço? Você perderá todos os dados armazenados nele.</string>
     <string name="default_space_name">Espaço</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="space_settings">Configurações do espaço</string>
+    <string name="space_settings_enable_gms">Ativar serviços do google para o espaço</string>
+    <string name="close">Fechar</string>
 </resources>
