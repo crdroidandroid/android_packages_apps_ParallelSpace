@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="app_name">Παράλληλος Χώρος</string>
+    <string name="new_space_tab">Νέο</string>
+    <string name="new_space_dialog_title">Δημιουργία νέου χώρου</string>
+    <string name="new_space_dialog_name_hint">Όνομα χώρου</string>
+    <string name="new_space_title">Νέος παράλληλος χώρος</string>
+    <string name="new_space_subtitle">Πατήστε για να δημιουργήσετε ένα παράλληλο χώρο</string>
+    <string name="remove_space_dialog_title">Αφαίρεση χώρου</string>
+    <string name="remove_space_dialog_message">Είστε βέβαιοι ότι θέλετε να καταργήσετε αυτό το χώρο? Θα χάσετε όλα τα δεδομένα που είναι αποθηκευμένα σε αυτό.</string>
+    <string name="default_space_name">Χώρος</string>
+    <string name="space_settings">Ρυθμίσεις Χώρου</string>
+    <string name="space_settings_enable_gms">Ενεργοποίηση υπηρεσιών Google</string>
+    <string name="close">Κλείσιμο</string>
 </resources>
