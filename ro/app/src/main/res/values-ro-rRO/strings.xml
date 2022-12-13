@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="app_name">Spaţiu paralel</string>
+    <string name="new_space_tab">Nou</string>
+    <string name="new_space_dialog_title">Crează spațiu nou</string>
+    <string name="new_space_dialog_name_hint">Numele spaţiului</string>
+    <string name="new_space_title">Nou spațiu paralel</string>
+    <string name="new_space_subtitle">Atingeți pentru a crea un spațiu paralel</string>
+    <string name="remove_space_dialog_title">Elimină spațiu</string>
+    <string name="remove_space_dialog_message">Sigur doriți să eliminați acest spațiu? Veți pierde toate datele stocate în acesta.</string>
+    <string name="default_space_name">Spațiu</string>
+    <string name="space_settings">Setări spaţiu</string>
+    <string name="space_settings_enable_gms">Activează serviciile Google</string>
+    <string name="close">Inchide</string>
 </resources>
