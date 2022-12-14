@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="app_name">Паралельная прастора</string>
+    <string name="new_space_tab">Новае</string>
+    <string name="new_space_dialog_title">Стварыце новую прастору</string>
+    <string name="new_space_dialog_name_hint">Назва прасторы</string>
+    <string name="new_space_title">Новая паралельная прастора</string>
+    <string name="new_space_subtitle">Націсніце, каб стварыць паралельную прастору</string>
+    <string name="remove_space_dialog_title">Выдаліць прастору</string>
+    <string name="remove_space_dialog_message">Вы ўпэўнены, што хочаце выдаліць гэту прастору? Вы страціце ўсе даныя, якія ў ёй захоўваюцца.</string>
+    <string name="default_space_name">Прастора</string>
+    <string name="space_settings">Налады прасторы</string>
+    <string name="space_settings_enable_gms">Уключыць сэрвісы Google</string>
+    <string name="close">Закрыць</string>
 </resources>
