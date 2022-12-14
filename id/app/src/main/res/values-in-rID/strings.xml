@@ -19,12 +19,12 @@
     <string name="new_space_tab">Baru</string>
     <string name="new_space_dialog_title">Buat ruang baru</string>
     <string name="new_space_dialog_name_hint">Nama ruang</string>
-    <string name="new_space_title">Ruang paraller baru</string>
-    <string name="new_space_subtitle">Tekan di sini untuk membuat ruang baru</string>
-    <string name="remove_space_dialog_title">Hilangkan sepasinya</string>
-    <string name="remove_space_dialog_message">Apa anda yakin ingin menghapus ruang ini? data anda yang tersimpan akan hilang.</string>
-    <string name="default_space_name">Spasi</string>
+    <string name="new_space_title">Ruang kedua baru</string>
+    <string name="new_space_subtitle">Ketuk di sini untuk membuat ruang baru</string>
+    <string name="remove_space_dialog_title">Hapus ruang</string>
+    <string name="remove_space_dialog_message">Apakah Anda yakin akan menghapus ruang ini? Anda akan kehilangan semua data yang tersimpan di dalamnya.</string>
+    <string name="default_space_name">Ruang</string>
     <string name="space_settings">Setelan Ruang</string>
-    <string name="space_settings_enable_gms">Aktifkan layanan google</string>
+    <string name="space_settings_enable_gms">Aktifkan Layanan Google</string>
     <string name="close">Tutup</string>
 </resources>
