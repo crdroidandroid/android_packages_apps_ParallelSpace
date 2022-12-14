@@ -22,7 +22,7 @@
     <string name="new_space_title">Új párhuzamos tér</string>
     <string name="new_space_subtitle">Koppintson új párhuzamos tér létrehozásához</string>
     <string name="remove_space_dialog_title">Tér eltávolitása</string>
-    <string name="remove_space_dialog_message">Biztosan el akarod távolítani ezt a teret? Minden adatod amit benne tároltál el fog veszni.</string>
+    <string name="remove_space_dialog_message">Biztosan el akarod távolítani ezt a teret? Minden benne lévő adat el fog veszni.</string>
     <string name="default_space_name">Tér</string>
     <string name="space_settings">Tér beállításai</string>
     <string name="space_settings_enable_gms">Google szolgáltatások bekapcsolása</string>
