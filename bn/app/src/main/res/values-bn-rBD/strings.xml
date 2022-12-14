@@ -26,6 +26,6 @@
 আপনার সমস্ত ডাটা মুছে ফেলা হবে.</string>
     <string name="default_space_name">স্পেস</string>
     <string name="space_settings">স্পেস সেটিংস</string>
-    <string name="space_settings_enable_gms">এনাবল-গুগল সার্ভিসেস</string>
+    <string name="space_settings_enable_gms">এনাবল গুগল সার্ভিসেস</string>
     <string name="close">বন্ধ করুন</string>
 </resources>
