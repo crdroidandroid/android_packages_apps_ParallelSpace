@@ -22,7 +22,7 @@
     <string name="new_space_title">مساحة موازية جديدة</string>
     <string name="new_space_subtitle">انقر لإنشاء مساحة متوازية</string>
     <string name="remove_space_dialog_title">حذف المساحة</string>
-    <string name="remove_space_dialog_message">هل أنت متأكد من إزالة هذه المساحة؟ سوف تفقد جميع البيانات المخزنة فيها.</string>
+    <string name="remove_space_dialog_message">أمتأكد من إزالة هذه المساحة؟ ستفقد جميع البيانات المخزنة فيها.</string>
     <string name="default_space_name">مسافة</string>
     <string name="space_settings">إعدادات المساحة</string>
     <string name="space_settings_enable_gms">تفعيل خدمات جوجل</string>
