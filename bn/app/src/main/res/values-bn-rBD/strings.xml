@@ -17,7 +17,7 @@
 <resources>
     <string name="app_name">প্যারালাল স্পেস</string>
     <string name="new_space_tab">নতুন</string>
-    <string name="new_space_dialog_title">\"একটি নতুন স্পেস তৈরি করুন\"</string>
+    <string name="new_space_dialog_title">একটি নতুন স্পেস তৈরি করুন</string>
     <string name="new_space_dialog_name_hint">স্পেসের নাম</string>
     <string name="new_space_title">নতুন প্যারালাল স্পেস</string>
     <string name="new_space_subtitle">টেপ দিয়ে একটি প্যারালাল স্পেস তৈরি করুন</string>
