@@ -26,5 +26,5 @@
     <string name="default_space_name">スペース</string>
     <string name="space_settings">スペースの設定</string>
     <string name="space_settings_enable_gms">Google サービスを有効にする</string>
-    <string name="close">Close</string>
+    <string name="close">閉じる</string>
 </resources>
