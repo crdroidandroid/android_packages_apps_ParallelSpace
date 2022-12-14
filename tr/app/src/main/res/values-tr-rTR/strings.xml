@@ -25,6 +25,6 @@
     <string name="remove_space_dialog_message">Bu alanı kaldıracağınızdan emin misiniz? İçinde depolanan tüm verileri kaybedersiniz.</string>
     <string name="default_space_name">Alan</string>
     <string name="space_settings">Alan ayarları</string>
-    <string name="space_settings_enable_gms">Google servislerini etkinleştir</string>
+    <string name="space_settings_enable_gms">Google Hizmetlerini Etkinleştir</string>
     <string name="close">Kapat</string>
 </resources>
