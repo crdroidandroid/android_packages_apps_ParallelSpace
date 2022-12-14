@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
+    <string name="app_name">パラレルスペース</string>
+    <string name="new_space_tab">新規作成</string>
+    <string name="new_space_dialog_title">新しいスペースを作成</string>
+    <string name="new_space_dialog_name_hint">スペース名</string>
+    <string name="new_space_title">新しいパラレルスペース</string>
+    <string name="new_space_subtitle">タップしてパラレルスペースを作成</string>
+    <string name="remove_space_dialog_title">スペースを削除</string>
+    <string name="remove_space_dialog_message">このスペースを削除してもよろしいですか？ここに保存されているすべてのデータが失われます。</string>
+    <string name="default_space_name">スペース</string>
+    <string name="space_settings">スペースの設定</string>
+    <string name="space_settings_enable_gms">Google サービスを有効にする</string>
     <string name="close">Close</string>
 </resources>
