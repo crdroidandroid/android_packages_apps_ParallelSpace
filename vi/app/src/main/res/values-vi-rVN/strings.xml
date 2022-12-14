@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="app_name">Không gian song song</string>
+    <string name="new_space_tab">Mới</string>
+    <string name="new_space_dialog_title">Tạo không gian mới</string>
+    <string name="new_space_dialog_name_hint">Tên không gian</string>
+    <string name="new_space_title">Không gian song song mới</string>
+    <string name="new_space_subtitle">Nhấn để tạo không gian song song</string>
+    <string name="remove_space_dialog_title">Xóa không gian</string>
+    <string name="remove_space_dialog_message">Bạn muốn xóa không gian này hả? Bạn sẽ mất hết dữ liệu được lưu trong đó.</string>
+    <string name="default_space_name">Không gian</string>
+    <string name="space_settings">Cài đặt không gian</string>
+    <string name="space_settings_enable_gms">Bật dịch vụ của Google Play</string>
+    <string name="close">Đóng</string>
 </resources>
