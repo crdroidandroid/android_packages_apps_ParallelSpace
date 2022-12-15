@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">فضای موازی</string>
+    <string name="app_name">فضای همتا</string>
     <string name="new_space_tab">جدید</string>
     <string name="new_space_dialog_title">ایجاد فضای جدید</string>
     <string name="new_space_dialog_name_hint">نام فضا</string>
-    <string name="new_space_title">فضای موازی جدید</string>
-    <string name="new_space_subtitle">برای ایجاد یک فضای موازی ضربه بزنید</string>
+    <string name="new_space_title">فضای همتای جدید</string>
+    <string name="new_space_subtitle">برای ایجاد یک فضای همتا ضربه بزنید</string>
     <string name="remove_space_dialog_title">حذف فضا</string>
     <string name="remove_space_dialog_message">مطمئن هستید که می‌خواهید این فضا را حذف کنید؟ تمام اطلاعات ذخیره شده در این فضا را از دست خواهید داد.</string>
     <string name="default_space_name">فضا</string>
     <string name="space_settings">تنظیمات فضا</string>
-    <string name="space_settings_enable_gms">فعال‌سازی خدمات گوگل پلی</string>
+    <string name="space_settings_enable_gms">فعال‌سازی خدمات Google</string>
     <string name="close">بستن</string>
 </resources>
