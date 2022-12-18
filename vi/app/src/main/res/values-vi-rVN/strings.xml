@@ -15,8 +15,8 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Không gian song song</string>
-    <string name="new_space_tab">Mới</string>
+    <string name="app_name">Nhiều không gian</string>
+    <string name="new_space_tab">Tạo mới</string>
     <string name="new_space_dialog_title">Tạo không gian mới</string>
     <string name="new_space_dialog_name_hint">Tên không gian</string>
     <string name="new_space_title">Không gian song song mới</string>
