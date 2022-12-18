@@ -19,12 +19,13 @@
     <string name="new_space_tab">Tạo mới</string>
     <string name="new_space_dialog_title">Tạo không gian mới</string>
     <string name="new_space_dialog_name_hint">Tên không gian</string>
-    <string name="new_space_title">Không gian song song mới</string>
-    <string name="new_space_subtitle">Nhấn để tạo không gian song song</string>
+    <string name="new_space_title">Không gian mới</string>
+    <string name="new_space_subtitle">Nhấn để tạo không gian mới</string>
     <string name="remove_space_dialog_title">Xóa không gian</string>
-    <string name="remove_space_dialog_message">Bạn muốn xóa không gian này hả? Bạn sẽ mất hết dữ liệu được lưu trong đó.</string>
+    <string name="remove_space_dialog_message">Xóa không gian này chứ?
+Sẽ mất hết dữ liệu được lưu trong đó.</string>
     <string name="default_space_name">Không gian</string>
     <string name="space_settings">Cài đặt không gian</string>
-    <string name="space_settings_enable_gms">Bật dịch vụ của Google Play</string>
+    <string name="space_settings_enable_gms">Bật các dịch vụ google</string>
     <string name="close">Đóng</string>
 </resources>
