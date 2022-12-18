@@ -22,9 +22,9 @@
     <string name="new_space_title">Yeni paralel alan</string>
     <string name="new_space_subtitle">Paralel alan oluşturmak için dokunun</string>
     <string name="remove_space_dialog_title">Alanı kaldır</string>
-    <string name="remove_space_dialog_message">Bu alanı kaldıracağınızdan emin misiniz? İçinde depolanan tüm verileri kaybedersiniz.</string>
+    <string name="remove_space_dialog_message">Bu alanı kaldıracağınızdan emin misiniz? Alanda depolanan tüm verileri kaybedeceksiniz.</string>
     <string name="default_space_name">Alan</string>
     <string name="space_settings">Alan ayarları</string>
-    <string name="space_settings_enable_gms">Google Hizmetlerini Etkinleştir</string>
+    <string name="space_settings_enable_gms">Google servislerini etkinleştir</string>
     <string name="close">Kapat</string>
 </resources>
