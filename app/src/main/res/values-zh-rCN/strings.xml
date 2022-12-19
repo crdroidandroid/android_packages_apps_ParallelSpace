@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2022 Project Kaleidoscope
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+    <string name="app_name">平行空间</string>
+    <string name="new_space_tab">新建</string>
+    <string name="new_space_dialog_title">创建新的空间</string>
+    <string name="new_space_dialog_name_hint">空间名称</string>
+    <string name="new_space_title">新建平行空间</string>
+    <string name="new_space_subtitle">点击以创建平行空间</string>
+    <string name="remove_space_dialog_title">移除空间</string>
+    <string name="remove_space_dialog_message">您确定要删除此空间吗？您将丢失所有存储在其中的数据。</string>
+    <string name="default_space_name">空间</string>
+    <string name="space_settings">空间设置</string>
+    <string name="space_settings_enable_gms">启用谷歌服务</string>
+    <string name="close">关闭</string>
+</resources>
