@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2022 Project Kaleidoscope
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+    <string name="app_name">パラレルスペース</string>
+    <string name="new_space_tab">新規作成</string>
+    <string name="new_space_dialog_title">新しいスペースを作成</string>
+    <string name="new_space_dialog_name_hint">スペース名</string>
+    <string name="new_space_title">新しいパラレルスペース</string>
+    <string name="new_space_subtitle">タップしてパラレルスペースを作成</string>
+    <string name="remove_space_dialog_title">スペースを削除</string>
+    <string name="remove_space_dialog_message">このスペースを削除してもよろしいですか？ここに保存されているすべてのデータが失われます。</string>
+    <string name="default_space_name">スペース</string>
+    <string name="space_settings">スペースの設定</string>
+    <string name="space_settings_enable_gms">Google サービスを有効にする</string>
+    <string name="close">閉じる</string>
+</resources>
