@@ -17,14 +17,14 @@
 <resources>
     <string name="app_name">Parallel Space</string>
     <string name="new_space_tab">Neu</string>
-    <string name="new_space_dialog_title">Neuen Space erstellen</string>
+    <string name="new_space_dialog_title">Neuen Bereich erstellen</string>
     <string name="new_space_dialog_name_hint">Name des Space</string>
     <string name="new_space_title">Neuer paralleler Space</string>
-    <string name="new_space_subtitle">Tippen, um neuen Parallel Space zu erstellen</string>
-    <string name="remove_space_dialog_title">Space entfernen</string>
-    <string name="remove_space_dialog_message">Soll der Space wirklich entfernt werden? Sämtliche darin gespeicherte Daten gehen dabei verloren.</string>
+    <string name="new_space_subtitle">Tippen, um einen parallelen Bereich zu erstellen</string>
+    <string name="remove_space_dialog_title">Bereich entfernen</string>
+    <string name="remove_space_dialog_message">Soll der Bereich wirklich entfernt werden? Sämtliche darin gespeicherte Daten gehen dabei verloren.</string>
     <string name="default_space_name">Space</string>
-    <string name="space_settings">Space-Einstellungen</string>
+    <string name="space_settings">Bereichs-Einstellungen</string>
     <string name="space_settings_enable_gms">Google-Dienste aktivieren</string>
     <string name="close">Schließen</string>
 </resources>
