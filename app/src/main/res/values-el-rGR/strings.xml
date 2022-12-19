@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2022 Project Kaleidoscope
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+    <string name="app_name">Παράλληλος Χώρος</string>
+    <string name="new_space_tab">Νέο</string>
+    <string name="new_space_dialog_title">Δημιουργία νέου χώρου</string>
+    <string name="new_space_dialog_name_hint">Όνομα χώρου</string>
+    <string name="new_space_title">Νέος παράλληλος χώρος</string>
+    <string name="new_space_subtitle">Πατήστε για να δημιουργήσετε ένα παράλληλο χώρο</string>
+    <string name="remove_space_dialog_title">Αφαίρεση χώρου</string>
+    <string name="remove_space_dialog_message">Είστε βέβαιοι ότι θέλετε να καταργήσετε αυτό το χώρο? Θα χάσετε όλα τα δεδομένα που είναι αποθηκευμένα σε αυτό.</string>
+    <string name="default_space_name">Χώρος</string>
+    <string name="space_settings">Ρυθμίσεις Χώρου</string>
+    <string name="space_settings_enable_gms">Ενεργοποίηση υπηρεσιών Google</string>
+    <string name="close">Κλείσιμο</string>
+</resources>

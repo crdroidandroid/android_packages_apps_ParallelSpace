@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2022 Project Kaleidoscope
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+    <string name="app_name">فضای موازی</string>
+    <string name="new_space_tab">جدید</string>
+    <string name="new_space_dialog_title">ایجاد فضای جدید</string>
+    <string name="new_space_dialog_name_hint">نام فضا</string>
+    <string name="new_space_title">فضای موازی جدید</string>
+    <string name="new_space_subtitle">برای ایجاد یک فضای موازی ضربه بزنید</string>
+    <string name="remove_space_dialog_title">حذف فضا</string>
+    <string name="remove_space_dialog_message">مطمئن هستید که می‌خواهید این فضا را حذف کنید؟ تمام اطلاعات ذخیره شده در این فضا را از دست خواهید داد.</string>
+    <string name="default_space_name">فضا</string>
+    <string name="space_settings">تنظیمات فضا</string>
+    <string name="space_settings_enable_gms">فعال‌سازی خدمات گوگل پلی</string>
+    <string name="close">بستن</string>
+</resources>
