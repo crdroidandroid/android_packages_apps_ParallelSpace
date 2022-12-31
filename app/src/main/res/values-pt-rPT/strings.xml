@@ -18,7 +18,7 @@
     <string name="app_name">Parallel Space</string>
     <string name="new_space_tab">New</string>
     <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
+    <string name="new_space_dialog_name_hint">Nome do espaço</string>
     <string name="new_space_title">New parallel space</string>
     <string name="new_space_subtitle">Tap to create a parallel space</string>
     <string name="remove_space_dialog_title">Remove space</string>
