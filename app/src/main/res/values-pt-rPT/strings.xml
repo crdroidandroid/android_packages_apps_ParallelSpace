@@ -22,7 +22,7 @@
     <string name="new_space_title">New parallel space</string>
     <string name="new_space_subtitle">Tap to create a parallel space</string>
     <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
+    <string name="remove_space_dialog_message">De certeza que pretende remover este espaço? Todos os dados que ele contém serão perdidos.</string>
     <string name="default_space_name">Space</string>
     <string name="space_settings">Space settings</string>
     <string name="space_settings_enable_gms">Enable Google services</string>
