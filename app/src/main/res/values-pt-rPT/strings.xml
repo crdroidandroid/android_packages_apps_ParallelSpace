@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
+    <string name="app_name">Espaço paralelo</string>
+    <string name="new_space_tab">Novo</string>
+    <string name="new_space_dialog_title">Criar um novo espaço</string>
     <string name="new_space_dialog_name_hint">Nome do espaço</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
+    <string name="new_space_title">Novo espaço paralelo</string>
+    <string name="new_space_subtitle">Toque para criar um espaço paralelo</string>
+    <string name="remove_space_dialog_title">Remover espaço</string>
     <string name="remove_space_dialog_message">De certeza que pretende remover este espaço? Todos os dados que ele contém serão perdidos.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="default_space_name">Espaço</string>
+    <string name="space_settings">Definições do Espaço</string>
+    <string name="space_settings_enable_gms">Ativar serviços do Google</string>
+    <string name="close">Fechar</string>
 </resources>
