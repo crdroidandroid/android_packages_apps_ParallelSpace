@@ -16,7 +16,7 @@
 -->
 <resources>
     <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
+    <string name="new_space_tab">חדש</string>
     <string name="new_space_dialog_title">Create new space</string>
     <string name="new_space_dialog_name_hint">Space name</string>
     <string name="new_space_title">New parallel space</string>
@@ -26,5 +26,5 @@
     <string name="default_space_name">Space</string>
     <string name="space_settings">Space settings</string>
     <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="close">סגור</string>
 </resources>
