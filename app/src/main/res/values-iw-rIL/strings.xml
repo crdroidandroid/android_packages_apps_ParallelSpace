@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
+    <string name="app_name">שטח מקביל</string>
     <string name="new_space_tab">חדש</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
+    <string name="new_space_dialog_title">צור שטח חדש</string>
+    <string name="new_space_dialog_name_hint">שם שטח</string>
+    <string name="new_space_title">שטח מקביל חדש</string>
+    <string name="new_space_subtitle">הקש כדי ליצור שטח מקביל</string>
+    <string name="remove_space_dialog_title">הסר שטח</string>
+    <string name="remove_space_dialog_message">האם אתה בטוח שברצונך להסיר שטח זה? אתה תאבד את כל הנתונים הנמצאים בו.</string>
+    <string name="default_space_name">שטח</string>
+    <string name="space_settings">הגדרות השטח</string>
+    <string name="space_settings_enable_gms">הפעל את שירותי Google</string>
     <string name="close">סגור</string>
 </resources>
