@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Aplicacions paral·leles</string>
+    <string name="app_name">Espai Paral·lel</string>
     <string name="new_space_tab">Nou</string>
     <string name="new_space_dialog_title">Crea un espai nou</string>
     <string name="new_space_dialog_name_hint">Nom de l\'espai</string>
     <string name="new_space_title">Espai paral·lel nou</string>
     <string name="new_space_subtitle">Toca per a crear un espai paral·lel</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="remove_space_dialog_title">Elimina l\'espai</string>
+    <string name="remove_space_dialog_message">Esteu segur que voleu eliminar l\'espai? Es perdran totes les dades que hi siguin emmagatzemades.</string>
+    <string name="default_space_name">Espai</string>
+    <string name="space_settings">Configuració de l\'espai</string>
+    <string name="space_settings_enable_gms">Activa els serveis de Google</string>
+    <string name="close">Tanca</string>
 </resources>
