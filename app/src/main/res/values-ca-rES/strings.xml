@@ -15,12 +15,12 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
+    <string name="app_name">Aplicacions paral·leles</string>
+    <string name="new_space_tab">Nou</string>
+    <string name="new_space_dialog_title">Crea un espai nou</string>
+    <string name="new_space_dialog_name_hint">Nom de l\'espai</string>
+    <string name="new_space_title">Espai paral·lel nou</string>
+    <string name="new_space_subtitle">Toca per a crear un espai paral·lel</string>
     <string name="remove_space_dialog_title">Remove space</string>
     <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
     <string name="default_space_name">Space</string>
