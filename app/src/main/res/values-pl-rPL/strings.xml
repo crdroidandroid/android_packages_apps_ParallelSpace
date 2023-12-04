@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
+    <string name="app_name">Przestrzeń równoległa</string>
     <string name="new_space_tab">Nowa</string>
     <string name="new_space_dialog_title">Utwórz nową przestrzeń</string>
     <string name="new_space_dialog_name_hint">Nazwa przestrzeni</string>
-    <string name="new_space_title">Nowa przestrzeń parallel</string>
-    <string name="new_space_subtitle">Kliknij, aby utworzyć nową przestrzeń </string>
-    <string name="remove_space_dialog_title">Usuń przestrzeń </string>
-    <string name="remove_space_dialog_message">Czy jesteś pewny, że chcesz usunąć przestrzeń? Utracisz wszystkie dane przechowywane w tej przestrzeni.</string>
-    <string name="default_space_name">Przestrzeń </string>
-    <string name="space_settings">Ustawienia przestrzeni </string>
-    <string name="space_settings_enable_gms">Włącz usługi Google </string>
-    <string name="close">Zamknij </string>
+    <string name="new_space_title">Nowa przestrzeń równoległa</string>
+    <string name="new_space_subtitle">Dotknij, aby utworzyć nową przestrzeń równoległą</string>
+    <string name="remove_space_dialog_title">Usuń przestrzeń</string>
+    <string name="remove_space_dialog_message">Czy na pewno chcesz usunąć tę przestrzeń? Utracisz wszystkie dane w niej przechowywane.</string>
+    <string name="default_space_name">Przestrzeń</string>
+    <string name="space_settings">Ustawienia przestrzeni</string>
+    <string name="space_settings_enable_gms">Włącz usługi Google</string>
+    <string name="close">Zamknij</string>
 </resources>
