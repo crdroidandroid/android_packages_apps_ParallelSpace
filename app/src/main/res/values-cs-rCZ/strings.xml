@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="app_name">Souběžný prostor</string>
+    <string name="new_space_tab">Nový</string>
+    <string name="new_space_dialog_title">Vytvořit nový prostor</string>
+    <string name="new_space_dialog_name_hint">Název prostoru</string>
+    <string name="new_space_title">Nový paralelní prostor</string>
+    <string name="new_space_subtitle">Klepnutím vytvoříte paralelní místo</string>
+    <string name="remove_space_dialog_title">Odstranit prostor</string>
+    <string name="remove_space_dialog_message">Opravdu chcete odstranit tento prostor? Ztratíte všechna data v něm uložená.</string>
+    <string name="default_space_name">Prostor</string>
+    <string name="space_settings">Nastavení prostoru</string>
+    <string name="space_settings_enable_gms">Zapnout služby Google</string>
+    <string name="close">Zavřít</string>
 </resources>
