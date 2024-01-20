@@ -16,15 +16,15 @@
 -->
 <resources>
     <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="new_space_tab">Novi</string>
+    <string name="new_space_dialog_title">Napravi novi prostor</string>
+    <string name="new_space_dialog_name_hint">Ime prostora</string>
+    <string name="new_space_title">Novi parallel space</string>
+    <string name="new_space_subtitle">Pretisni da biste kreirali parallel space</string>
+    <string name="remove_space_dialog_title">Ukloni prostor</string>
+    <string name="remove_space_dialog_message">Želite li zaista da uklonite ovaj prostor? Izgubićete sve podatke u njemu.</string>
+    <string name="default_space_name">Prostor</string>
+    <string name="space_settings">Podešavanja</string>
+    <string name="space_settings_enable_gms">Omogući Google services</string>
+    <string name="close">Zatvori</string>
 </resources>
