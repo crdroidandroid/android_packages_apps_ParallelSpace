@@ -15,16 +15,16 @@
   limitations under the License.
 -->
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="new_space_tab">New</string>
-    <string name="new_space_dialog_title">Create new space</string>
-    <string name="new_space_dialog_name_hint">Space name</string>
-    <string name="new_space_title">New parallel space</string>
-    <string name="new_space_subtitle">Tap to create a parallel space</string>
-    <string name="remove_space_dialog_title">Remove space</string>
-    <string name="remove_space_dialog_message">Are you sure to remove this space? You will lose all data stored in it.</string>
-    <string name="default_space_name">Space</string>
-    <string name="space_settings">Space settings</string>
-    <string name="space_settings_enable_gms">Enable Google services</string>
-    <string name="close">Close</string>
+    <string name="app_name">Paralleelruum</string>
+    <string name="new_space_tab">Uus</string>
+    <string name="new_space_dialog_title">Loo uus ruum</string>
+    <string name="new_space_dialog_name_hint">Ruumi nimi</string>
+    <string name="new_space_title">Uus paralleelruum</string>
+    <string name="new_space_subtitle">Koputa uue paralleelruumi loomiseks</string>
+    <string name="remove_space_dialog_title">Eemalda ruum</string>
+    <string name="remove_space_dialog_message">Kas soovid kindlasti selle ruumi eemaldada? Kaotad kõik selles olevad andmed.</string>
+    <string name="default_space_name">Ruum</string>
+    <string name="space_settings">Ruumi sätted</string>
+    <string name="space_settings_enable_gms">Luba Google\'i teenused</string>
+    <string name="close">Sulge</string>
 </resources>
